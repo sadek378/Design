@@ -1,0 +1,366 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Faustina', serif;
+}
+
+.containar{
+	width: 60%;
+	margin: auto;
+}
+
+.header{
+	background-color: #23232e;
+	text-align: center;
+
+
+}
+
+.logo img{
+	width: 67px;
+	height: auto;
+	margin-top: 40px;
+}
+
+
+.header h1{
+	color: #FFFFFF;
+	font-size: 50px;
+	text-transform: uppercase;
+}
+
+.header p{
+	color: #FFFFFF;
+	font-size: 14px;
+}
+
+.iconno{
+	margin-top: 60px;
+	padding: 40px 0px;
+}
+
+.iconno a>i{
+	color: #FFFFFF;
+	border: 1px solid #ffffff;
+	font-size: 10px;
+	width: 10px;
+	height: 10px;
+	padding: 10px;
+	border-radius: 50%;
+}
+
+
+
+.middel{
+	margin-top: 55px;
+	background-image: url('images/bgicon.png');
+	background-size: cover;
+	background-position: 100% 100%;
+}
+
+.content p{
+	color: #888a8b;
+	font-size: 16px;
+	text-align: center;
+}
+
+.content h1{
+	color: #464b4f;
+	font-size: 45px;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 30px;
+}
+
+.middel-us{
+	overflow: hidden;
+
+}
+
+.colum{
+	width: 32%;
+	float: left;
+}
+
+.colum h4{
+	color: #464b4f;
+	font-size: 16px;
+	text-transform: uppercase;
+	margin-left: 10px;
+}
+
+.colum p{
+	color: #9b9d9d;
+	font-size: 15px;
+	margin-left: 10px;
+	margin-bottom: 70px;
+}
+
+
+.portfoilo{
+	background-color: #23232e;
+}
+
+.portfoilo h2{
+	color: #FFFFFF;
+	font-size: 50px;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 50px;
+}
+
+
+.menu{
+	padding-bottom: 50px;
+
+}
+
+.menu ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+.menu ul li{
+	display: inline-block;
+}
+
+.menu ul li a{
+	color: #FFFFFF;
+	text-decoration: none;
+	text-transform: capitalize;
+	font-size: 13px;
+	display: block;
+	padding: 0px 12px;
+	padding-bottom: 20px;
+	border-bottom: 3px solid transparent;
+}
+
+.menu ul li a:hover{
+	border-bottom: 3px solid #7b77c9;
+}
+
+.menu ul .ami a{
+		border-bottom: 3px solid #7b77c9;
+}
+
+
+
+.photo-work{
+	overflow: hidden;
+}
+
+
+.photo a{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 17px;
+	display: block;
+	text-align: center;
+	font-weight: normal;
+	
+}
+.photo{
+	width: 31.33%;
+	margin: 0 1%;
+	float: left;
+	overflow: hidden;
+}
+
+.button{
+	padding: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.button a{
+	color: #ffffff;
+	background-color: #7b77c9;
+	font-size: 18px;
+	text-transform: capitalize;
+	text-decoration: none;
+	padding: 18px 35px;
+	border-radius: 4%;
+
+}
+
+
+.photography{
+	background-image: url('images/bgicon2.png');
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: 100% 100%;
+}
+
+.photography h1{
+	color: #464b4f;
+	font-size: 55px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.photography p{
+	color: #929394;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+.photo-edit{
+	margin-top: 40px;
+	overflow: hidden;
+}
+
+.photo{
+	margin-top: 10px;
+	float: left;
+	overflow: hidden;
+}
+
+.photo img{
+	width: 100%;
+	height: auto;
+}
+
+.blog{
+	padding-top: 50px;
+	padding-bottom: 100px;	
+	text-align: center;
+	margin-top: 40px;
+}
+
+
+.blog a{
+	color: #ffffff;
+	font-size: 17px;
+	text-decoration: none;
+	text-transform: capitalize;
+	background-color: #7b77c9;
+	padding: 17px 35px;
+	border-radius: 3%;
+
+}
+
+.icons{
+	background-color: #23232e;
+	text-align: center;
+	padding-bottom: 100px; 
+
+}
+
+.icons img{
+	width: 100px;
+	margin-top: 130px;
+}
+
+.icons p{
+	color: #FFFFFF;
+	font-size: 17px;
+	padding: 30px;
+}
+
+
+.icons form input{
+	color: #666666;
+	font-size: 18px;
+	padding: 10px 20px;
+	border-radius: 5px;
+	border: none;
+
+}
+
+.icons input[type="text"]{
+	margin-right: 10px;
+}
+
+.icons input[type="submit"]{
+	color: #FFFFFF;
+	background-color: #7b77c9;	
+}
+
+
+.social-media{
+
+}
+
+.icontable{
+
+}
+
+.icontable ul{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	list-style: none;
+	margin-top: 40px;
+}
+
+.icontable ul li{
+	display: inline-block;
+	margin: 0px 10px;
+}
+
+.icontable ul li a{
+	color: #666666;
+	font-size: 40px;
+}
+
+.copyright p{
+	color: #7c7c7c;
+	font-size: 18px;
+	text-align: center;
+
+}
+
+.copyright{
+	margin-top: 70px;
+	margin-bottom: 150px;
+	background-image: url("images/socialicon.png");
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: 100% 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
